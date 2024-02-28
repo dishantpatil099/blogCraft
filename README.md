@@ -1,2 +1,2 @@
 # blogCraft
-NodeJS - ExpressJS - MongoDB - RESTapi - EJS
+NodeJS - ExpressJS - MongoDB - RestApi - EJS
